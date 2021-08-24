@@ -14,6 +14,7 @@ const AppHeader = () => {
                     <Menu.Item key="feature">Feature</Menu.Item>
                     <Menu.Item key="howitworks">How it works</Menu.Item>
                     <Menu.Item key="faq">FAQ</Menu.Item>
+                    <Menu.Item key="faq">Pricing</Menu.Item>
                     <Menu.Item key="contact">Contact</Menu.Item>
                 </Menu>
             </div>
