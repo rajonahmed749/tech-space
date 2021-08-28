@@ -4,7 +4,7 @@ import { Card } from 'antd';
 import modern from "../../assets/images/modern-design.jpg";
 import clean from "../../assets/images/clean-design.jpg";
 import support from "../../assets/images/great-support.jpg";
-import cusomize from "../../assets/images/easy-customise.jpg";
+import customize from "../../assets/images/easy-customise.jpg";
 import features from "../../assets/images/unlimited-features.jpg";
 import advance from "../../assets/images/advanced-option.jpg";
 
@@ -35,7 +35,7 @@ const Feature = () => {
                         </Card>
                     </Col>
                     <Col span={8}>
-                        <Card hoverable cover={<img alt="example" src={cusomize} />}>
+                        <Card hoverable cover={<img alt="example" src={customize} />}>
                             <Meta title="Easy to customize" />
                         </Card>
                     </Col>
