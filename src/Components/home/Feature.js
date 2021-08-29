@@ -12,7 +12,7 @@ import advance from "../../assets/images/advanced-option.jpg";
 const Feature = () => {
     const { Meta } = Card;
     return (
-        <div className="block featureBlock bgGray">
+        <div id="feature" className="block featureBlock bgGray">
             <div className="container-fluid">
                 <div className="titleHolder">
                     <h2>Key Features and Benefits</h2>
