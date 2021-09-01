@@ -54,7 +54,7 @@ const Pricing = () => {
                 </div>
                 <List
                     grid={{
-                        gutter: 16, 
+                        gutter: 16,
                         xs: 1,
                         sm: 1,
                         md: 3,

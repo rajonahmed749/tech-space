@@ -19,32 +19,32 @@ const Feature = () => {
                     <p>Obcaecati consequatur libero repudiandae, aperiam itaque laborum!</p>
                 </div>
                 <Row gutter={[16, 16]}>
-                    <Col span={8}>
+                    <Col xs={{ span: 24}} sm={{ span: 12}} md={{ span: 8}}>
                         <Card hoverable cover={<img alt="modern" src={modern} />}>
                             <Meta title="Modern Design" />
                         </Card>
                     </Col>
-                    <Col span={8}>
+                    <Col xs={{ span: 24}} sm={{ span: 12}} md={{ span: 8}}>
                         <Card hoverable cover={<img alt="clean" src={clean} />}>
                             <Meta title="Clean and Elegant" />
                         </Card>
                     </Col>
-                    <Col span={8}>
+                    <Col xs={{ span: 24}} sm={{ span: 12}} md={{ span: 8}}>
                         <Card hoverable cover={<img alt="example" src={support} />}>
                             <Meta title="Great support" />
                         </Card>
                     </Col>
-                    <Col span={8}>
+                    <Col xs={{ span: 24}} sm={{ span: 12}} md={{ span: 8}}>
                         <Card hoverable cover={<img alt="example" src={customize} />}>
                             <Meta title="Easy to customize" />
                         </Card>
                     </Col>
-                    <Col span={8}>
+                    <Col xs={{ span: 24}}sm={{ span: 12}} md={{ span: 8}}>
                         <Card hoverable cover={<img alt="example" src={features} />}>
                             <Meta title="Unlimited features" />
                         </Card>
                     </Col>
-                    <Col span={8}>
+                    <Col xs={{ span: 24}} sm={{ span: 12}} md={{ span: 8}}>
                         <Card hoverable cover={<img alt="example" src={advance} />}>
                             <Meta title="Advance topics" />
                         </Card>
