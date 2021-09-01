@@ -10,11 +10,11 @@ const AppFooter = () => {
                     <a href="#">TechSpace</a>
                 </div>
                 <ul className="socials">
-                    <li><a href="https://www.facebook.com/"><i className="fab fa-facebook-f"></i></a></li>
-                    <li><a href="https://www.twitter.com/"><i className="fab fa-twitter"></i></a></li>
+                    <li><a href="https://ahmed-rajon.web.app/"><i className="fab fa-facebook-f"></i></a></li>
+                    <li><a href="https://ahmed-rajon.web.app/"><i className="fab fa-twitter"></i></a></li>
                     <li><a href="https://www.linkedin.com/in/rajon749/" target="_blank"><i className="fab fa-linkedin-in"></i></a></li>
                     <li><a href="https://www.linkedin.com/in/rajon749/" target="_blank"><i className="fab fa-pinterest-p"></i></a></li>
-                    <li><a href="https://www.instagram.com/"><i className="fab fa-instagram"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/rajon749/"><i className="fab fa-instagram"></i></a></li>
                 </ul>
                 <div className="copyright">Copyright &copy; 2021 Techspace</div>
                 <BackTop >
