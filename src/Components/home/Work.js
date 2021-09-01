@@ -24,7 +24,7 @@ const Work = () => {
                 </div>
                 <div className="contentHolder">
                     <Button onClick={showModal}>
-                        <i class="fas fa-play"></i>
+                        <i className="fas fa-play"></i>
                     </Button>
                 </div>
                 <Modal title="Classical romantic song" footer={null} visible={isModalVisible} onOk={handleOk} onCancel={handleCancel}>
